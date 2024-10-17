@@ -1,2 +1,2 @@
 # Python-Uni
-Esercizi programmazione docente Fraschini
+Esercizi programmazione in python.
